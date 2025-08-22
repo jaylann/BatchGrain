@@ -56,3 +56,9 @@ mv batchgrain.py /usr/local/bin/batchgrain
 ```
 
 This way, you can call the script with `batchgrain` from anywhere on the console.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://lanfermann.dev">Justin Lanfermann</a>
+</p>
